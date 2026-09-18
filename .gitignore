@@ -1,0 +1,8 @@
+# large raw/processed datasets
+Quant_PRO_BigData_350.csv
+Quant_Scaled_ML_Ready.csv
+
+# venv / caches
+.venv/
+__pycache__/
+*.pyc
